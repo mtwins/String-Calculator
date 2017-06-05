@@ -7,6 +7,7 @@ public class Calculator {
 			return 0;
 		}
 		else if(text.contains(",")){
+			
 			return sum(splitNumbers(text));
 		}
 		else
