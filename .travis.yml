@@ -1,1 +1,2 @@
 language: java
+script:String-Calculator/src/test/java/is/ru/stringcalculator/CalculatorTest.java 
